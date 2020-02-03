@@ -1,7 +1,8 @@
 solutions = [
   {
-    "url": "https://github.com/facebook/relay.git",
+    "url": "https://github.com/facebook/relay.git@origin/source",
     "name": "../github/facebook/relay",
+    "managed": False,
   },
   {
     "url": "https://github.com/graphql/graphql.github.io.git",
