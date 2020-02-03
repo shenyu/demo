@@ -4,6 +4,10 @@ solutions = [
     "name": "../github/facebook/relay",
   },
   {
+    "url": "https://github.com/graphql/graphql.github.io.git",
+    "name": "../github/graphql/graphql.github.io",
+  },
+  {
     "url": "https://github.com/relayjs/relay-examples.git",
     "name": "../github/relayjs/relay-examples",
   },
